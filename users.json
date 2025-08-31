@@ -1,0 +1,18 @@
+{
+    "ananya": {
+        "id": 1,
+        "password": "scrypt:32768:8:1$6wpg4OOHOF6tcDXf$452c5c675139215a4dd5eb2898c6c16bcbb4b29c17845501565e0b5864042df84aaaab15dabbc93c7f3882fc09e4af612d4735dbdf0eef02096e685a5c1dce97"
+    },
+    "ananya12": {
+        "id": 2,
+        "password": "scrypt:32768:8:1$eiEj2gRGGBITyOFN$d49268762083adeba42cff7795baedd0e13a67c652c6d143db6e640995e1b79238957e4ab9963de57ce776d6dab12655c7ad892402c6305c760d2fadb9fb7bcc"
+    },
+    "test": {
+        "id": 3,
+        "password": "scrypt:32768:8:1$gUAdpn3O5yg014BA$f59c3976bec77c3f97a8f5c1a9dc5e57f7ca2a66498118827fd2c999a6c9245fd6e2f43df21da23528c7d690d1a97e91f5f5e73ce0d72415a0765b116b974a49"
+    },
+    "ananyasingh": {
+        "id": 4,
+        "password": "scrypt:32768:8:1$b7xeUdMov61qZl10$b4516198e1bfb3bccf852e029b75c5f9f20f1492039a11ce714c31f02f571ee940a79dfd3badc7f2a0610b835f2d001f40f9b11289ecab221e396ecdbc393954"
+    }
+}
