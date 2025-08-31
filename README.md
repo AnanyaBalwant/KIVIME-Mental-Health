@@ -44,7 +44,7 @@ A comprehensive mental health companion web application that provides stress det
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/MindCare-MentalHealthcare.git
+   git clone https://github.com/AnanyaBalwant/KIVIME-Mental-Health.git
    cd MindCare-MentalHealthcare
    ```
 
