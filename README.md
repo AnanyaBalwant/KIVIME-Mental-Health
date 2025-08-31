@@ -157,15 +157,6 @@ SECRET_KEY=your_secret_key_here
 
 ## 🚀 Deployment
 
-### Heroku
-The project includes a `Procfile` for easy Heroku deployment:
-
-```bash
-# Install Heroku CLI
-heroku create your-app-name
-git push heroku main
-```
-
 ### Other Platforms
 - **Vercel**: Supports Python applications
 - **Railway**: Easy Python deployment
@@ -192,11 +183,6 @@ git push heroku main
 
 We welcome contributions! Please follow these steps:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ### Development Guidelines
 - Follow PEP 8 Python style guidelines
@@ -204,33 +190,12 @@ We welcome contributions! Please follow these steps:
 - Test your changes thoroughly
 - Update documentation as needed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Bootstrap**: UI framework and components
 - **Google Gemini**: AI chatbot capabilities
 - **Flask**: Web framework
 - **Open Source Community**: Various libraries and tools
-
-## 📞 Support
-
-If you have any questions or need help:
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/MindCare-MentalHealthcare/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/MindCare-MentalHealthcare/discussions)
-- **Email**: your.email@example.com
-
-## 🔮 Roadmap
-
-- [ ] Enhanced ML models for stress detection
-- [ ] Integration with wearable devices
-- [ ] Community features and support groups
-- [ ] Professional therapist matching
-- [ ] Mobile app development
-- [ ] Multi-language support
 
 ## ⚠️ Disclaimer
 
