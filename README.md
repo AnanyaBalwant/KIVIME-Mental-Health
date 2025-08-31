@@ -85,7 +85,6 @@ MindCare-MentalHealthcare/
 ├── app.py                 # Main Flask application
 ├── chatbot.py            # AI chatbot implementation
 ├── requirements.txt      # Python dependencies
-├── Procfile             # Heroku deployment configuration
 ├── static/              # Static assets (CSS, JS, images)
 │   ├── assets/         # Main assets and vendor libraries
 │   ├── css/            # Custom stylesheets
