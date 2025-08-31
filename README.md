@@ -201,7 +201,3 @@ We welcome contributions! Please follow these steps:
 This application is designed to provide mental health support and information but is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of qualified health providers with questions about medical conditions.
 
 ---
-
-**Made with ❤️ for mental health awareness and support**
-
-*If you find this project helpful, please give it a ⭐ star on GitHub!* 
